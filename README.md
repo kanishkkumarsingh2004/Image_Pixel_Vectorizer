@@ -1,4 +1,3 @@
-Copy code
 # Image Pixel Vectorizer
 
 ## Overview
